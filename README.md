@@ -1,6 +1,6 @@
-<div align="center">
+<div>
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaoVini&theme=github_dark&hide_border=true&show_icons=true&icon_color=007ACC&title_color=3B7ED4&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JaoVini&layout=compact&theme=github_dark&hide_border=true&title_color=3B7ED4&text_color=FFF) </tr></td>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaoVini&theme=github_dark&hide_border=true&show_icons=true&icon_color=007ACC&title_color=3B7ED4&text_color=FFF)
 <br>
 
 <table>
@@ -21,6 +21,8 @@
             </tr>
         </tbody>
     </table>
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaovini&repo=Portfolio&bg_color=0D1117&border_color=3D444D&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
 
 
 </div>
