@@ -22,7 +22,7 @@
         </tbody>
     </table>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaovini&repo=Portfolio&bg_color=0D1117&border_color=3D444D&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaovini&repo=Portfolio&bg_color=0D1117&border_color=3D444D&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=ccc)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
 
 
 </div>
