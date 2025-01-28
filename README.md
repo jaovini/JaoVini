@@ -1,2 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaovini&theme=transparent&show_icons=true&border_color=0D1117&text_color=F0F6FC)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaovini&theme=transparent&hide_border=true&border_radius=0&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jaovini&layout=compact&bg_color=0D1117&border_color=0D1117&title_color=006AFF&text_color=F0F6FC)
